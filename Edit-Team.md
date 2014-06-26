@@ -1,0 +1,1 @@
+Under "Edit Team," when you click on "Edit Team Info" you will be taken to a page where you can change the team's information. This includes the team's title, description, avatar image, phone number, and address.

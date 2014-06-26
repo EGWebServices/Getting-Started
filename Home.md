@@ -1,3 +1,3 @@
 ## Getting Started
-* [Edit Your Personal Profile](https://github.com/EGWebServices/Gettingstartedforcoaches/blob/master/profile.md)
-* [Adjust your team settings]()
+* [Edit Your Personal Profile](Edit your personal profile)
+* [Adjust your team settings](Adjust your team settings)
